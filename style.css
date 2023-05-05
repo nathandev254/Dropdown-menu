@@ -95,17 +95,17 @@ nav {
   height: auto;
 }
 .learn-more {
-  /* height: 2.5rem;
-  width: 6rem; */
   padding: 20px 40px;
   border: none;
   background-color: hsl(0, 0%, 8%);
   color: #fff;
+  font-size:3;
+  font-weight: 700;
   border-radius: 5px;
   margin: 1rem;
 }
 .links {
   display: flex;
   gap: 2rem;
-  margin-top: 1rem;
+  margin-top: 5rem;
 }
